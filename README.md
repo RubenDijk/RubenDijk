@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey there! 👋
+
+I love coding, creating all sorts of applications. At the moment, YAML and C++ are my go-to guys.
+
+
+
+
 
 <!--
 **RubenDijk/RubenDijk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
