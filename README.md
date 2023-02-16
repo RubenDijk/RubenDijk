@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I love coding, creating all sorts of applications. At the moment, YAML and C++ are my go-to guys.
+I love coding, creating all sorts of applications. At the moment, YAML,Python,CodeSys and C++ are my go-to guys.
 
 
 
